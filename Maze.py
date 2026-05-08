@@ -35,7 +35,7 @@ end_cell   = (0, COLS-1)
 
 # =========================
 # 🔘 BUTTON CLASS
-# =========================
+
 class Button:
     def __init__(self, x, y, w, h, text):
         self.rect = pygame.Rect(x, y, w, h)
