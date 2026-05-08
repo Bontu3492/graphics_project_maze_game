@@ -4,7 +4,7 @@ import sys
 
 # =========================
 # ⚙️ SETTINGS (adjusted for button visibility)
-# =========================
+
 ROWS, COLS = 15, 15
 CELL_SIZE = 40                     # increased so the grid is wider
 WIDTH = COLS * CELL_SIZE           # = 600
